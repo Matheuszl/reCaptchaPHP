@@ -6,7 +6,7 @@
 
 <div class="col-2 text-center">
 <form class="row g-3" action="cadastro.php" method="post">
-  <div class="g-recaptcha" data-sitekey="6LcJXe8dAAAAAJ1z06ihv5xSncPtyl9FtctG6NDc"></div>
+  <div class="g-recaptcha" data-sitekey="chave_secreta_site"></div>
     <input type="password" name="email" id="email">
     <div class="col-auto">
       <button type="submit" class="btn btn-primary mb-3">Login</button>
